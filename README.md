@@ -10,7 +10,7 @@
 - 💻 Computer Science Major.
 - 📱 Frontent Developer.
 - 🖥 DevOps(AWS Cloud) Developer.
-- ☕️ Java 
+- ☕️ Java/C++/JavaScript
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardikchaudhary1310" alt="hardikchaudhary1310" /></a> </p><br>
